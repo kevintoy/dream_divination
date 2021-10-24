@@ -1,0 +1,5 @@
+x,Guoyu (947-453 BC),Zuozhuan (772- 468 BC),Shiji (?-104 BC),Hanshu (202 BC-8 AD),Houhanshu (25-220 AD),Sanguozhi (220-280AD),Jinshu (266-420 AD),Songshu (420-479 AD),Weishu (386-534 AD),Nanqishu (479-502 AD),Beishi (386-618 AD),Nanshi (420-589 AD),Liangshu (502-557 AD),Zhoushu (557-589 AD),Beiqishu (531-611 AD),Chenshu (557-581 AD),Suishu ,Jiutangshu (618-907 AD),Xintangshu (618-907 AD),Jiuwudaishi (907-960 AD),Xinwudaishi (907-960 AD),Liaoshi (907-1125 AD),Songshi (960-1279 AD),Jinshi (1115-1234 AD),Yuanshi (1271-1368 AD),Mingshi (1368-1644 AD),Qingshigao (1636-1912 AD)
+success,4,18,16,12,10,16,52,24,26,10,56,70,21,5,15,6,9,23,25,22,3,7,65,13,22,29,5
+vague,1,8,3,4,1,0,0,0,2,0,3,6,0,1,0,0,0,2,6,3,0,2,2,5,0,3,1
+failure,0,1,0,0,0,0,0,0,1,1,3,1,0,0,0,0,0,0,0,1,1,0,4,1,0,0,0
+non-predictive,0,1,2,4,7,2,9,5,5,9,7,25,6,0,3,2,1,9,18,2,1,1,13,2,2,4,2
